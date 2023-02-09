@@ -1,1 +1,1 @@
-su - betty: this changes the user to 'betty'
+su betty: this changes the user to 'betty'
